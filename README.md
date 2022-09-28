@@ -19,9 +19,8 @@ You can also select the proportion of an image from the drop-down box. After sel
 
 Finally, click the Confirm button to get the fused image. If you are satisfied with it, you can click the Save button to save it
 
-In addition to the code, I also provide an exe file, which you can use directly
+There are also some other functions, such as the two pictures do not have the same size, exe file，etc
 
-There are also some other functions, such as the two pictures do not have the same size, etc
 If you need, you can leave a message below
 
 Of course, if I have any mistakes or suggestions, I am welcome to point them out
