@@ -1,9 +1,12 @@
 # Repository1
 Different pictures can be merged by proportion
+
+
 Run interface
 
 
-![图片](https://user-images.githubusercontent.com/114232179/192704380-31657de5-e06a-473e-a2cb-d6ae5aae6356.png)
+![图片](https://user-images.githubusercontent.com/114232179/192704703-4b94aff1-9086-42af-9845-2adbfe138096.png)
+
 
 
 
