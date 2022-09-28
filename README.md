@@ -5,7 +5,8 @@ Different pictures can be merged by proportion
 Run interface
 
 
-![图片](https://user-images.githubusercontent.com/114232179/192704703-4b94aff1-9086-42af-9845-2adbfe138096.png)
+![图片](https://user-images.githubusercontent.com/114232179/192707585-5137a96f-2f3c-4f33-8fa3-058b047828fd.png)
+
 
 
 
@@ -20,5 +21,8 @@ Finally, click the Confirm button to get the fused image. If you are satisfied w
 
 In addition to the code, I also provide an exe file, which you can use directly
 
-Of course, there is no need for two pictures to be the same size. 
+There are also some other functions, such as the two pictures do not have the same size, etc
 If you need, you can leave a message below
+
+Of course, if I have any mistakes or suggestions, I am welcome to point them out
+
