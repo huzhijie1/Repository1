@@ -1,6 +1,8 @@
 # Repository1
 Different pictures can be merged by proportion
-Run interface(https://user-images.githubusercontent.com/114232179/192701527-143278d4-f8f8-4f24-8a8e-df1884952812.png)
+Run interface
+![图片](https://user-images.githubusercontent.com/114232179/192704380-31657de5-e06a-473e-a2cb-d6ae5aae6356.png)
+
 
 You can use two buttons to select pictures separately, but the two pictures must be the same size
 
